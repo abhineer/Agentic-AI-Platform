@@ -58,7 +58,7 @@ Example Prompts: Helps users get started quickly with pre-built example question
 
 Opik Tracing: Integrated with OpikTracer for observability and debugging of agent execution flows.
 
-** Architecture**
+**Architecture**
 
 The application follows a modern RAG agent architecture:
 
