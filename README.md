@@ -1,5 +1,5 @@
-Inventory Management Agent
-This project is a sophisticated, AI-powered inventory management assistant built with LangChain, OpenAI's GPT models, and a Gradio user interface. It leverages a Retrieval-Augmented Generation (RAG) architecture to answer natural language queries about inventory by querying a real-time database.
+****Inventory Management Agent****
+This project is a , AI-powered inventory management assistant built with LangChain, OpenAI's GPT models, and a Gradio user interface. It leverages a Retrieval-Augmented Generation (RAG) architecture to answer natural language queries about inventory by querying a real-time database.
 
 The assistant is enhanced with robust security guardrails to prevent prompt injection and other misuse, and an intelligent caching layer to ensure high performance and reduce redundant API calls.
 
