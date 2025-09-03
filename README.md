@@ -3,7 +3,6 @@ This project is a , AI-powered inventory management assistant built with LangCha
 
 The assistant is enhanced with robust security guardrails to prevent prompt injection and other misuse, and an intelligent caching layer to ensure high performance and reduce redundant API calls.
 
-✨** Key Features**
 **Core Functionality**
 Conversational AI Agent: Uses a LangChain agent to understand user queries and interact with backend tools.
 
